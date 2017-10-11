@@ -1,0 +1,1 @@
+python scene.py --mode train --train_dir ../../../data/ai_challenger_scene_train_20170904/scene_train_images_20170904/ --annotations ../../../data/ai_challenger_scene_train_20170904/scene_train_annotations_20170904.json --max_step 65000
